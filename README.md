@@ -1,6 +1,6 @@
-PROJECT 5 - Bash Scripting Suite For System Maintenance
+**PROJECT 5 - Bash Scripting Suite For System Maintenance**
 
-CAPSTONE PROJECT FOR WIPRO
+**CAPSTONE PROJECT FOR WIPRO**
 
 🧰 System Maintenance Suite
 
@@ -40,8 +40,11 @@ chmod +x system_maintenance_suite.sh
 Enter choice [1-4]:
 
 ⚙️ Requirements:
+
 1.Linux or macOS terminal
+
 2.bash shell
+
 3.Sudo privileges (for update/cleanup operations)
 
 📄 License
