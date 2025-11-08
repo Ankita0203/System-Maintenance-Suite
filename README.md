@@ -48,5 +48,6 @@ Enter choice [1-4]:
 3.Sudo privileges (for update/cleanup operations)
 
 📄 License
+
 This project is licensed under the MIT License – feel free to use and modify it.
 
