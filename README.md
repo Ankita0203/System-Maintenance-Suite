@@ -1,3 +1,7 @@
+PROJECT 5 - Bash Scripting Suite For System Maintenance
+
+CAPSTONE PROJECT FOR WIPRO
+
 🧰 System Maintenance Suite
 
 A simple Bash-based system utility tool that provides essential maintenance operations like backup, system cleanup, log monitoring, and updates — all in one interactive menu-driven interface.
