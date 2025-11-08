@@ -51,3 +51,9 @@ Enter choice [1-4]:
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
+RESULTS (Screenshot)
+
+Here you can see an example result (From My Laptop)
+
+
+<img width="1920" height="1024" alt="Image1" src="https://github.com/user-attachments/assets/69b24367-8bc2-4b0d-a6b1-4cec3263ac2b" />
