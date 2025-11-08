@@ -51,7 +51,7 @@ Enter choice [1-4]:
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
-<span style="font-size:24px">Results (Screenshot) </span> 
+Results (Screenshot)
 
 Here you can see an example result (From My Laptop)
 
