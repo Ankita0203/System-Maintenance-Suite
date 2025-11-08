@@ -16,13 +16,17 @@ A simple Bash-based system utility tool that provides essential maintenance oper
 4️⃣ Exit Option – Cleanly exit the script and return to the terminal.
 
 🖥️ Usage:Steps to actually run the project
+
 1.Clone the repository:
 git clone https://github.com/<your-username>/system-maintenance-suite.git
 cd system-maintenance-suite
+
 2.Make the script executable:
 chmod +x system_maintenance_suite.sh
+
 3.Run the tool:
 ./system_maintenance_suite.sh
+
 4.Follow the on-screen menu to perform operations:
 
 ==============================
