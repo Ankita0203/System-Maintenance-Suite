@@ -1,4 +1,4 @@
-##PROJECT 5 - Bash Scripting Suite For System Maintenance
+## PROJECT 5 - Bash Scripting Suite For System Maintenance
 
 **CAPSTONE PROJECT FOR WIPRO**
 
