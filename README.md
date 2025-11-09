@@ -1,8 +1,9 @@
 ## PROJECT 5 - Bash Scripting Suite For System Maintenance
 
-**CAPSTONE PROJECT FOR WIPRO**
 
-🧰 System Maintenance Suite
+## CAPSTONE PROJECT FOR WIPRO
+
+## 🧰 System Maintenance Suite
 
 A simple Bash-based system utility tool that provides essential maintenance operations like backup, system cleanup, log monitoring, and updates — all in one interactive menu-driven interface.
 
@@ -47,11 +48,11 @@ Enter choice [1-4]:
 
 3.Sudo privileges (for update/cleanup operations)
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
-Results (Screenshot)
+## Results (Screenshot)
 
 Here you can see an example result (From My Laptop)
 
